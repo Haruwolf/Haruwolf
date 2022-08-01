@@ -21,7 +21,7 @@ For work purposes, I'm have more than three years on educational gaming and gami
 <a href="mailto:haruwolf22@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 
 ### ...and your Portfolio is?
-<a href="behance.net/haruwolf">![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)</a>
+<a href="https://www.behance.net/haruwolf">![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)</a>
 
 That's wrap the TED talk about me, see ya!
 <!--
