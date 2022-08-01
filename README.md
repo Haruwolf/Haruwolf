@@ -5,8 +5,8 @@ I'm Pedro Zanardi (he/him), 27, brazilian, game programmer, game designer, enthu
 For work purposes, I'm have more than three years on educational gaming and gamification and currently working as Junior on Unity Virtual Reality. Technologist on Digital Games and four years teacher experience compliments the work journey that I had.
 
 ### Main Skills
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 
