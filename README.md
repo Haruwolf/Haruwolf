@@ -1,6 +1,6 @@
 ### Howdy! 🤠
 
-I'm Pedro Zanardi (he/him), 27, brazilian, game programmer, game designer, enthusiast on retro gamming and modding. Here you will find some personal projects on Unity, C# and Construct 3 and my adventures on N64 modding, Game Maker and Python. Have you interest? Reach me on my Social Media or discover my portfolio down!
+I'm Pedro Zanardi (he/him), 28, brazilian, game programmer, game designer, enthusiast on retro gamming and modding. Here you will find some personal projects on Unity, C# and Construct 3 and my adventures on N64 modding, Game Maker and Python. Have you interest? Reach me on my Social Media or discover my portfolio down!
 
 For work purposes, I'm have more than three years on educational gaming and gamification and currently working as Junior on Unity Virtual Reality. Technologist on Digital Games and four years teacher experience compliments the work journey that I had.
 
